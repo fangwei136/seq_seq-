@@ -4,7 +4,7 @@
 解决方案:
     word2vec预处理，seq2seq模型，使用pgn，coverage, bream search提升效果
 框架:
-    tensorfowl 2.0
+    tensorflow 2.0
 
 文件简介:
     func -
